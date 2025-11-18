@@ -18,3 +18,8 @@ span {
     margin-left:auto;
     margin-right:auto;
 }
+h3 {
+    display:inline-block;
+    text-align:center;
+    margin:0, auto;
+}
