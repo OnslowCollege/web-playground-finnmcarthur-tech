@@ -20,13 +20,16 @@ span {
 }
 h2 {
     display:inline-block;
-    background-color: rgb(60, 60, 60);
+    background-color: rgb(120, 120, 120);
     font-size:24px;
-    margin-left:8%;
-    margin-right:8%;
+    margin-left:10%;
+    margin-right:10%;
 }
 h4 {
     display:inline-block;
-    background-color: rgb(60, 60, 60);
+    background-color: rgb(120, 120, 120);
     font-size:24px;
+}
+a {
+    color: rgb(10, 10, 10)
 }
