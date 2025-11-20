@@ -21,6 +21,6 @@ span {
 h2 {
     display:inline-block;
     font-size:24px;
-    margin-left:-5%;
-    margin-right:-5%;
+    margin-left:0%;
+    margin-right:0%;
 }
