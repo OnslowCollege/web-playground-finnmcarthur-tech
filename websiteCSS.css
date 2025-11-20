@@ -10,7 +10,10 @@ img {
     margin-right:auto;
 }
 p {
-    font-size:35px;
+    font-size:20px;
+    text-align:right;
+    margin-left:auto;
+    margin-right:auto;
 }
 span {
     width:20%;
@@ -22,8 +25,8 @@ h2 {
     display:inline-block;
     background-color: rgb(120, 120, 120);
     font-size:24px;
-    margin-left:10%;
-    margin-right:10%;
+    margin-left:18%;
+    margin-right:18%;
 }
 h4 {
     display:inline-block;
@@ -34,5 +37,12 @@ a {
     color: rgb(10, 10, 10)
 }
 body {
-    background-color: rgb(150, 150, 150);
+    background-color: rgb(170, 170, 170);
+}
+h5 {
+    font-size:35px;
+    font-weight:bold;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
 }
