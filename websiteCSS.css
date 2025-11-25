@@ -29,13 +29,10 @@ h2 {
     display:inline-block;
     background-color: rgb(120, 120, 120);
     font-size:24px;
-    margin-left:20%;
-    margin-right:20%;
-}
-h4 {
-    display:inline-block;
-    background-color: rgb(120, 120, 120);
-    font-size:24px;
+    margin-left:11.6666666666666666666%;
+    margin-right:11.6666666666666666666%;
+    text-align:center;
+    width:10%
 }
 a {
     color: rgb(10, 10, 10)
